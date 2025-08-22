@@ -1,0 +1,9 @@
+# Игнорировать всё
+*
+
+# Разрешить только нужные файлы бота
+!bot.py
+!requirements.txt
+!dnevnik.db
+dnevnik.db
+__pycache__/
